@@ -1,10 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap");
 
-/* * {
-    margin: 0;
-    padding: 0;
-} */
-
 * {
   box-sizing: border-box;
   margin: 0;
@@ -17,12 +12,7 @@ body {
 }
 
 header {
-  /* padding: 20px; */
   background-color: aqua;
-  /* text-align: right; */
-  /* display: flex;
-  align-items: center;
-  justify-content: center; */
 }
 
 main {
